@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/user.png</file>
+        <file>images/bg.jpg</file>
+        <file>images/calendrier.png</file>
+        <file>images/logo1.png</file>
+        <file>images/logo.jpg</file>
+        <file>images/recherche.png</file>
+        <file>images/logo.png</file>
+        <file>images/home.png</file>
+        <file>images/logopng1.png</file>
+        <file>images/parametre.png</file>
+        <file>images/quit.png</file>
+        <file>images/pointage.png</file>
+        <file>images/notif.png</file>
+        <file>images/Arrows-Left-icon.png</file>
+        <file>images/Arrows-Right-icon.png</file>
+        <file>images/est1.png</file>
+        <file>images/est2.png</file>
+        <file>images/circle-icon.png</file>
+        <file>images/top-bar.png</file>
+        <file>images/slash.png</file>
+        <file>images/research.png</file>
+        <file>images/locked.png</file>
+        <file>images/unlocked.png</file>
+        <file>images/delete-icon.png</file>
+        <file>images/refresh-white.png</file>
+        <file>images/stats.png</file>
+    </qresource>
+</RCC>
