@@ -7,3 +7,10 @@ a staff clocking system of employes in a certain company
 
 The goal was to create an application using some machine learning algorithms that 
 teaches a camera the faces of employees of a company or establishment in order to note their entry and exit times like a badge reader
+
+
+# Technologies used
+
+QT, PYQT , C++ , PYTHON , XML
+
+OPENCV framework for image processing
